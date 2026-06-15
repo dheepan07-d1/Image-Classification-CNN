@@ -1,0 +1,7 @@
+datasets/
+venv/
+.ipynb_checkpoints/
+__pycache__/
+*.h5
+*.pyc
+Untitled.ipynb
